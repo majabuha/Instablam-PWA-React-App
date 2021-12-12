@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66b00785.chunk.css",
+    "main.js": "/static/js/main.1e032140.chunk.js",
+    "main.js.map": "/static/js/main.1e032140.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7a1bfce0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7a1bfce0.js.map",
+    "static/js/2.f3042c35.chunk.js": "/static/js/2.f3042c35.chunk.js",
+    "static/js/2.f3042c35.chunk.js.map": "/static/js/2.f3042c35.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.66b00785.chunk.css.map": "/static/css/main.66b00785.chunk.css.map",
+    "static/js/2.f3042c35.chunk.js.LICENSE.txt": "/static/js/2.f3042c35.chunk.js.LICENSE.txt",
+    "static/media/camOff.png": "/static/media/camOff.966442c7.png",
+    "static/media/camOn.png": "/static/media/camOn.7f17e133.png",
+    "static/media/castle.jfif": "/static/media/castle.fb91428e.jfif",
+    "static/media/download.png": "/static/media/download.f09606d6.png",
+    "static/media/gallery.png": "/static/media/gallery.edd0c44a.png",
+    "static/media/lens.png": "/static/media/lens.d9d25819.png",
+    "static/media/lion.jfif": "/static/media/lion.a88a41ac.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a1bfce0.js",
+    "static/js/2.f3042c35.chunk.js",
+    "static/css/main.66b00785.chunk.css",
+    "static/js/main.1e032140.chunk.js"
+  ]
+}

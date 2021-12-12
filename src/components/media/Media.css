@@ -1,0 +1,79 @@
+* {
+	background-color: rgb(248, 243, 237);
+}
+
+body {
+	margin-bottom: 2rem;
+}
+
+h1{
+	color: rgb(78, 63, 63);
+}
+
+button {
+	background: none;
+	border-radius: 50%;
+	border: .1rem ridge rgb(253, 252, 252) rgb(166, 166, 168);
+	margin: .2rem;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+.camera-container {
+	position: relative;
+}
+
+.camera-container video {
+	margin-left: 1rem;
+	width: 90vw;
+	height: 70vh;
+	border: 1px solid rgb(240, 220, 220);
+}
+
+.icon {
+	width: 1.2rem;
+	padding: .1rem;
+	margin-top: .2em;
+}
+
+.galleryIcon {	
+	position: absolute;
+	right: 5%;
+}
+
+.gallery {
+	padding: 1rem;
+}
+
+.icon-gallery {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	margin-right: 20%;
+}
+
+.cam {
+	position: fixed;
+	width: 3rem;
+	height: auto;
+	top: 10px;
+	left: 10px;
+}
+
+.cam-img {
+	width: 2rem;
+	height: auto;
+}
+
+@media only screen and (max-width: 600px) {
+	* {
+	  width: 99%;	  
+	}
+	body {
+		margin-bottom: 2rem;
+	}
+	button {
+		width: auto;
+	}
+  }
